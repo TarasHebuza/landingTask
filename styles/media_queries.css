@@ -1,0 +1,61 @@
+@media (max-width: 1024px) {
+    .desktopNavigation {
+        display: none;
+    }
+
+    .navButton {
+        display: block;
+    }
+
+    .navAndSearch {
+        width: 40%;
+    }
+
+    .formSearch {
+        width: 180px;
+    }
+
+    .slide {
+        padding: 150px 0;
+    }
+
+}
+
+@media (max-width: 860px) {
+    .slide {
+        padding: 100px 0;
+    }
+
+    .allProducts {
+        width: 40%;
+    }
+
+    .wrapperAboutUs {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .aboutUsContent {
+        width: 100%;
+    }
+
+    .aboutUsImg {
+        width: 50%;
+        margin-top: 20px;
+    }
+
+    .blockForm {
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 20px 0;
+    }
+
+    .form {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
+    .ourСontacts {
+        width: 90%;
+    }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 17" width="24" height="17">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #333333 } 
+	</style>
+	<g id="HEADER">
+		<path id="menu icon" class="shp0" d="M1 1L24 1L24 3L1 3L1 1ZM1 8L24 8L24 10L1 10L1 8ZM1 15L24 15L24 17L1 17L1 15Z" />
+	</g>
+</svg>
